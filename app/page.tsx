@@ -14,7 +14,7 @@ const Home = () => {
             href="/blog"
             className="inline-block bg-indigo-600 text-white text-lg font-semibold rounded-lg py-3 px-6 hover:bg-indigo-700 transition-all duration-300"
           >
-            View Blog Posts
+            View Blog Posts Now
           </Link>
         </div>
       </div>
